@@ -407,7 +407,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Built with ❤️ for learning DSA and full-stack development
+Ankit Khandelwal
 
 ## 🙏 Acknowledgments
 
